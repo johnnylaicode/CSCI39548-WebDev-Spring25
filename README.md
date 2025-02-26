@@ -94,7 +94,7 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2025
 
 ----------
 ## Class 4 (2/20, 2/25)
-### *Reminder:* Assignment 1 - Zoo is due on Wednesday, 2/26, at 11:59 PM.
+### *Reminder:* NEW DUE DATE: Assignment 1 - Zoo is due on Monday, 3/3, at 11:59 PM.
 <br/>
 
 **Document Object Model (DOM)**
