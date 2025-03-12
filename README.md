@@ -142,7 +142,7 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2025
 
 ----------
 ## Class 6 (3/11, 3/13)
-### *Reminder:* Assignment 2 - Grid Maker is due on Monday, 3/17, at 11:59 PM.
+### *Reminder:* NEW DUE DATE: Assignment 2 - Grid Maker is due on Monday, 3/24, at 11:59 PM.
 <br/>
 
 ***Continue:*** **React**
