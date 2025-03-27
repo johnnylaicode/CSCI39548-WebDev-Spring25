@@ -223,7 +223,7 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2025
 
 ----------
 ## Class 9 (4/1, 4/3)
-### *Reminder:* Assignment 3 - Bank of React is due on Monday, 4/7, at 11:59 PM.
+### *Reminder:* NEW DUE DATE: Assignment 3 - Bank of React is due on Monday, 4/14, at 11:59 PM.
 <br/>
 
 **Intro to Final Project**
